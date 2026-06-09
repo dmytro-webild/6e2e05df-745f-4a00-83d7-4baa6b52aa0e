@@ -40,9 +40,6 @@ export default function AndesBrandPage() {
               { text: "Contáctanos por WhatsApp", href: "https://wa.me/56927078086" },
               { text: "Descubre Nuestros Servicios", href: "#services-andes" }
             ]}
-            tag="Tu Visión, Nuestra Lente"
-            tagIcon={Sparkles}
-            tagAnimation="slide-up"
             buttonAnimation="slide-up"
             imageSrc="http://img.b2bpic.net/free-photo/film-reel-clapper-board-projector-stand_23-2150338782.jpg"
             imageAlt="Andes Brand Audiovisual"
