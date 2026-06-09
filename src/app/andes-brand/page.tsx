@@ -38,7 +38,7 @@ export default function AndesBrandPage() {
             description="Creamos experiencias audiovisuales impactantes para negocios y clientes privados, impulsando sus ventas y atrayendo nuevos clientes."
             buttons={[
               { text: "Contáctanos por WhatsApp", href: "https://wa.me/56927078086" },
-              { text: "Descubre Nuestros Servicios", href: "#services-andes" }
+              { text: "Descubre Nuestros Servicios", href: "#services-andes", className: "font-bold text-lg px-8 py-4 bg-primary-cta text-primary-cta-text hover:bg-primary-cta/90 transition-colors duration-200" }
             ]}
             buttonAnimation="slide-up"
             imageSrc="http://img.b2bpic.net/free-photo/film-reel-clapper-board-projector-stand_23-2150338782.jpg"
