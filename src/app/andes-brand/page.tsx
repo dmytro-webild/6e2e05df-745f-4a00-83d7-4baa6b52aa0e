@@ -76,14 +76,14 @@ export default function AndesBrandPage() {
             logoText="Andes Brand"
             columns={[
               {
-                title: "Compañía",                items: [
+                items: [
                   { label: "Inicio", href: "#hero-andes" },
                   { label: "Servicios", href: "#services-andes" },
                   { label: "Contacto", href: "#contact-andes" }
                 ]
               },
               {
-                title: "Conecta",                items: [
+                items: [
                   { label: "WhatsApp", href: "https://wa.me/56927078086" }
                 ]
               }
